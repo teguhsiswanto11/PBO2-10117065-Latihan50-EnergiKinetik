@@ -3,7 +3,7 @@
  * NAMA     : Teguh Siswanto
  * KELAS    : PBO2
  * NIM      : 10117065
- * Deskripsi Program : Menghitung Energi Kinetik dan Usaha 
+ * Deskripsi Program : Menghitung Energi Kinetik dan Usaha
  *
  */
 public class Main {
@@ -22,7 +22,7 @@ public class Main {
 
         System.out.println("B. Usaha yang dilakukan pada bola untuk mencapai " +
                 "\n\tkecepatan ini, jika dumulai dari " +
-                "keadaan diam = \n\t"
+                "keadaan diam \n\t = "
                 +bb.hitungUsaha(0, 25)+" joule");
     }
 }
