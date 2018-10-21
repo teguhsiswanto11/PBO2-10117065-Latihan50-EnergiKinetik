@@ -12,10 +12,10 @@ public class Main {
 
 //        diketahui
         System.out.println("Bola Baseball dilembar dengan ketentuan :\n");
-        System.out.print("Massa = "+bb.getMassa()+ " gram");
+        System.out.print("Massa \t\t= "+bb.getMassa()+ " gram");
         bb.setMassa(bb.getMassa()/1000);
         System.out.println(" atau "+bb.getMassa()+" kilogram");
-        System.out.println("Kecepatan = "+bb.getKecepatan()+ " m/s");
+        System.out.println("Kecepatan \t= "+bb.getKecepatan()+ " m/s");
 
 //        ditanyakan
         System.out.println("\nA. Memiliki Energi Kinetik = "+bb.hitungEnergiKinetik()+" joule");
